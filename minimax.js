@@ -1,7 +1,6 @@
 // Tic Tac Toe AI with Minimax Algorithm
 // The Coding Train / Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/154-tic-tac-toe-minimax.html
-// https://youtu.be/I64-UTORVfU
+
 
 
 function bestMove() {
