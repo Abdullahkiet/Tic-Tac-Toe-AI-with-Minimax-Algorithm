@@ -1,4 +1,3 @@
-// Tic Tac Toe AI with Minimax Algorithm
 let board = [
   ['', '', ''],
   ['', '', ''],
