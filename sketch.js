@@ -1,5 +1,4 @@
 // Tic Tac Toe AI with Minimax Algorithm
-// The Coding Train / Daniel Shiffman
 
 let board = [
   ['', '', ''],
